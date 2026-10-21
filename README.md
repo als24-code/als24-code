@@ -37,11 +37,3 @@ I build responsive web and mobile applications with **React, Next.js, TypeScript
 - Performance optimization and server-side rendering
 
 ---
-
-### 🤝 Let's Connect
-
-I'm interested in frontend engineering opportunities and collaborating on products that solve real problems.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
