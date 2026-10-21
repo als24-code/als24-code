@@ -1,6 +1,6 @@
 # Hi there, I'm Alina 👋
 
-### 💻 Software Engineer | Frontend Development & Full-Stack Applications
+### 💻 Software Engineer | Frontend Development & Full-Stack Development
 
 I build responsive web and mobile applications with **React, Next.js, TypeScript, and React Native**. I also have experience developing REST APIs, integrating backend services, and working with cloud infrastructure.
 
